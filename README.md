@@ -37,7 +37,7 @@ Database: `toko_e`
 
 ## ERD
 
-![ERD toko_e](erd.png)
+![ERD toko_e](ERD_toko_e.png)
 
 ---
 
